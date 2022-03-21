@@ -1,4 +1,7 @@
 # codility
+All code in index.php
+
+## Graphs
 
 <img width="674" alt="Screenshot 2022-03-21" src="https://user-images.githubusercontent.com/7652042/159328399-313e9162-9e21-4ce4-b0e8-5deb6581ba70.png">
 
